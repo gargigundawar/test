@@ -4,5 +4,6 @@ class a
     {
         System.out.println("helooooo...");
         System.out.println("Gargiiii...");
+        System.out.println("testing...");
     }
 }
